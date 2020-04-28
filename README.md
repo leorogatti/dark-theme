@@ -75,7 +75,7 @@ const changeColors = (colors) => {
 
 
 
-### And finally to apply the dark colors i added a *Event Listener* in input:
+### And finally to apply the dark colors i added an *Event Listener* in input:
 
 ```JavaScript
 checkbox.addEventListener("change", ({target}) => {
